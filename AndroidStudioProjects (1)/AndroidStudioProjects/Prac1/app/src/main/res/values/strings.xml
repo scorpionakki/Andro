@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IncDec</string>
+    <string name="_inc_btn">+</string>
+    <string name="_dec_btn">-</string>
+    <string name="_0">0</string>
+</resources>

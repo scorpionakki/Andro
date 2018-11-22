@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">16102005_MidSem_Autumn_2018</string>
+    <string name="payName">Payment Bank</string>
+    <string name="stuID">Student ID</string>
+    <string name="verify">Verify</string>
+    <string name="payeeName">PAYEE NAME</string>
+    <string name="transfer">Transfer</string>
+    <string name="FinalMsg">MESSAGE</string>
+    <string name="transferMsg">Enter Amount to Transfer</string>
+</resources>

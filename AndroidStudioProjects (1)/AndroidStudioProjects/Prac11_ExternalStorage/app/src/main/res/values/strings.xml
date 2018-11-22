@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prac11_ExternalStorage</string>
+    <string name="uploadButton">Click here to Take Image</string>
+    <string name="dspImg">Displays taken Image</string>
+</resources>

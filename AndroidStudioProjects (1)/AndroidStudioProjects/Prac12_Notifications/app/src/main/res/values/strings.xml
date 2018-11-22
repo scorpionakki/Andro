@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Prac12_Notifications</string>
+    <string name="genNotif">Generate Notification</string>
+</resources>

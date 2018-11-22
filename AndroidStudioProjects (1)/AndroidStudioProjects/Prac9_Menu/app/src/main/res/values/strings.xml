@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Prac9_Menu</string>
+    <string name="file">File</string>
+    <string name="create_new">Create New</string>
+    <string name="open">Open</string>
+</resources>

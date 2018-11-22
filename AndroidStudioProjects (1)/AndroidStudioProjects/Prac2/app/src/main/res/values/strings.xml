@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prac2</string>
+    <string name="act1_name">Activity 1</string>
+    <string name="act2_name">Activity 2</string>
+    <string name="act1_but">Go to Activity 1</string>
+    <string name="act2_but">Go to Activity 2</string>
+    <string name="exit_but">Exit</string>
+</resources>

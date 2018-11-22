@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Amorph\'s Browser</string>
+    <string name="gobtn">GO</string>
+    <string name="weburl">Enter URL...</string>
+</resources>

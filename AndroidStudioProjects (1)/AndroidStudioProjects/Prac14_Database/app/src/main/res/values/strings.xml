@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prac14_Database</string>
+    <string name="pName">Enter Name</string>
+    <string name="pAge">Enter Age</string>
+    <string name="pCity">Enter City</string>
+    <string name="btnSub">Submit</string>
+    <string name="btnView">View</string>
+    <string name="btnViewAll">View All</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EMI Calculator</string>
+    <string name="Pri_Txt">Enter Principal</string>
+    <string name="Rate_Txt">Enter Rate</string>
+    <string name="Yrs_Txt">Enter Number of Years</string>
+    <string name="Calc_btn">Calculate</string>
+</resources>

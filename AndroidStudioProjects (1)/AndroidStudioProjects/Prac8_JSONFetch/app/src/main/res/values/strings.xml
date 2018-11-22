@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prac8_JSONFetch</string>
+    <string name="btn_go">GO</string>
+    <string name="txt_enter">Enter Student ID...</string>
+    <string name="txt_nm">Name</string>
+    <string name="txt_class">Class</string>
+</resources>
